@@ -1,0 +1,2 @@
+# l4d_skip_intro_stripper
+用于跳过三方动画stripper
