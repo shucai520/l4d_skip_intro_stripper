@@ -1,6 +1,8 @@
 # l4d_skip_intro_stripper
 用于跳过三方动画stripper
 
+放入left4dead2/addons/stripper/
+
 [Broken Hand / 断手](https://steamcommunity.com/sharedfiles/filedetails/?id=2816107377): bh_z_m1
 
 [拉扎尔城堡的诅咒(The Curse of Lazar Castle)](https://www.gamemaps.com/details/21267): castle_map_01
