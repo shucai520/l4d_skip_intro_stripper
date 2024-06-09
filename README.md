@@ -15,3 +15,5 @@
 
 [血腥荒野（The Bloody Moors）](https://www.gamemaps.com/details/6772): l4d_tbm_1
 
+[泰坦尼克号（RMS Titanic）](https://www.gamemaps.com/details/2538): rmstitanic_m1, 第一关不用找钥匙直接开门
+
