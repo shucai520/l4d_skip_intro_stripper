@@ -17,3 +17,5 @@
 
 [泰坦尼克号（RMS Titanic）](https://www.gamemaps.com/details/2538): rmstitanic_m1, 第一关不用找钥匙直接开门
 
+[深埋（Buried Deep）](https://gamemaps.com/details/23930): bdp_bunker01
+
