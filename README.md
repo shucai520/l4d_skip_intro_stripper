@@ -19,3 +19,5 @@
 
 [深埋（Buried Deep）](https://gamemaps.com/details/23930): bdp_bunker01
 
+[摩耶山危机（Yama）](https://www.gamemaps.com/details/2850): l4d_yama_1
+
