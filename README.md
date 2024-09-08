@@ -21,3 +21,6 @@
 
 [摩耶山危机（Yama）](https://www.gamemaps.com/details/2850): l4d_yama_1
 
+[远足山径（Hiking Trails）](https://www.gamemaps.com/details/21604): hiking_trails
+
+[后天（DayAfter）](https://www.gamemaps.com/details/29349): dam1_, 第一关和最后一关
