@@ -28,3 +28,6 @@
 [地狱之城（Inferno City）](https://steamcommunity.com/sharedfiles/filedetails/?id=2843525274): l4d2_ic0, 去除第三关和最后一关开门前的长对话
 
 [死亡时刻（Dead On Time）](https://steamcommunity.com/sharedfiles/filedetails/?id=2803263994): apartment
+
+[149（One 4 Nine）](https://www.gamemaps.com/details/2682): l4d_149_5, 去除救援阴间滤镜
+
